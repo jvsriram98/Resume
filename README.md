@@ -1,2 +1,3 @@
 # Resume
-Here is the updated Resume
+## Summary
+Highly accomplished Data Analytical Engineer with 3+ years of experience in designing, building, and optimizing data pipelines, performing in-depth analysis, and driving business impact. Expertise in cloud platforms (GCP, AWS), big data technologies (Hive, Kafka, Databricks), and scripting languages (Python, SQL). Seeking to apply advanced analytical and engineering skills to challenging data-driven roles at leading technology companies.
